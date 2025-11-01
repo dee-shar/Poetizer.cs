@@ -1,6 +1,7 @@
 # Poetizer.cs
 Mobile-API for [Poetizer](https://www.poetizer.com/) creative social networking &amp; community app for reading, writing poems &amp; haiku!
 
+## Example
 ```cs
 using PoetizerApi;
 
